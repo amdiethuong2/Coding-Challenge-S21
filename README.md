@@ -1,5 +1,6 @@
 ## How to run the code
-There is a file called CgviewTest0.java inside the folder api_example. You can run that code, and it will create a .png file called random_1.png outside the folder api_example. If you need to change the gb file (you should not, because you have to modify the code a little bit to make sure it runs fine), you can change the genome.gb file outside the folder api_example.
+Sadly, I have not tried running it with command line. I used VS Code to run it.
+Just open the whole cgview folder in VS Code, and run the file CgviewTest0.java inside the foleder api_example.
 
 ## How I got my solution
 I panicked at the first time I saw this challenge. I did not know anything about biology before. I searched for some key terms like genbank, circular map, ... Then I found a tool online to convert from gb file to circular map. This is the tool: http://cgview.ca/. After getting the map, I found that the map displayed only the features. So I decided to write a program that would do the same thing.
