@@ -1,3 +1,5 @@
+## The circular map is the file random_1.png or the file /genome1/random_1.png
+
 ## How to run the code
 Sadly, I have not tried running it with the command line. I used VS Code to run it.
 
