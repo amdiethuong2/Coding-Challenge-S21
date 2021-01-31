@@ -1,6 +1,7 @@
 ## How to run the code
-Sadly, I have not tried running it with command line. I used VS Code to run it.
-Just open the whole cgview folder in VS Code, and run the file CgviewTest0.java inside the foleder api_example.
+Sadly, I have not tried running it with the command line. I used VS Code to run it.
+Just open the whole folder in VSCode, and run the file app.java in the folder /genome1/src/main/java/genome1. You will see a file called random_1.png locating in the folder /genome1. That file is the genome circular map.
+If you want to change the genbank file, then make changes to the file genome.db which locates in the folder /genome1.
 
 ## How I got my solution
 I panicked at the first time I saw this challenge. I did not know anything about biology before. I searched for some key terms like genbank, circular map, ... Then I found a tool online to convert from gb file to circular map. This is the tool: http://cgview.ca/. After getting the map, I found that the map displayed only the features. So I decided to write a program that would do the same thing.
