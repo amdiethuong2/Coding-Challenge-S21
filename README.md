@@ -1,6 +1,8 @@
 ## How to run the code
 Sadly, I have not tried running it with the command line. I used VS Code to run it.
+
 Just open the whole folder in VSCode, and run the file app.java in the folder /genome1/src/main/java/genome1. You will see a file called random_1.png locating in the folder /genome1. That file is the genome circular map.
+
 If you want to change the genbank file, then make changes to the file genome.db which locates in the folder /genome1.
 
 ## How I got my solution
